@@ -5,15 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: exampleSite/data/homepage.yml
+  path: pixpression/data/homepage.yml
   label: Homepage
 - type: heading
   label: Blog Post
 - type: document
-  path: exampleSite/content/blog/_index.md
+  path: pixpression/content/blog/_index.md
   label: Blog Page
 - type: directory
-  path: exampleSite/content/blog
+  path: pixpression/content/blog
   label: Blog Post
   create: documents
   match: "*"
@@ -23,35 +23,35 @@ sections:
 - type: heading
   label: Portfolio
 - type: document
-  path: exampleSite/content/portfolio/_index.md
+  path: pixpression/content/portfolio/_index.md
   label: Portfolio Page
 - type: document
-  path: exampleSite/data/portfolio.yml
+  path: pixpression/data/portfolio.yml
   label: Portfolio Items
 - type: heading
   label: About
 - type: document
-  path: exampleSite/content/about/_index.md
+  path: pixpression/content/about/_index.md
   label: About Page
 - type: document
-  path: exampleSite/data/about.yml
+  path: pixpression/data/about.yml
   label: About Data
 - type: heading
   label: Others Page
 - type: directory
-  path: exampleSite/content/contact
+  path: pixpression/content/contact
   label: Contact
   create: none
   match: "*"
 - type: heading
   label: Configuration
 - type: directory
-  path: exampleSite
+  path: pixpression
   label: Configuration
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: exampleSite/static/images
+upload_dir: pixpression/static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
