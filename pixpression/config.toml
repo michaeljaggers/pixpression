@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://pixpression.com"
+baseURL = "https://pixpression.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "pixpression"
