@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# default configuration
 baseURL = "https://pixpression.com"
-=======
-baseURL = "http://pixpression.com"
->>>>>>> 3167ce9c7a71b9d6debf465a876c14eec16ce58c
 languageCode = "en-us"
 summaryLength = "10"
 theme = "pixpression"
