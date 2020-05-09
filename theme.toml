@@ -2,14 +2,14 @@ name = "Pixpression"
 license = "MIT"
 licenselink = "https://github.com/michaeljaggers/pixpression/blob/master/LICENSE"
 description = "Pixpression Design Studio Website"
-homepage = "https://pixpression.coom"
+homepage = "https://pixpression.com"
 tags = []
 features = ['bootstrap','responsive']
 min_version = "0.64.0"
 
 [author]
-  name = "Michael Jaggers"
-  homepage = "https://michaeljaggeers.com/"
+  name = "W Michael Jaggers"
+  homepage = "https://michaeljaggers.com/"
 
 [original]
   name = "kross"
