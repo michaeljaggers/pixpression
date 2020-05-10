@@ -22,7 +22,7 @@ weight = 5
 [params]
 address = "Kansas City, Missouri"
 author = "Michael Jaggers"
-copyright = "Copyright &copy; 2020"
+copyright = "Copyright &copy; 2020 Pixpression"
 description = "Web & Graphic Design Studio in Kansas City, MO"
 email = "contact@pixpression.com"
 google_analytics_id = "UA-5637841-34"
@@ -50,15 +50,16 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
+
+#[[params.social]]
+#URL = "#"
+#icon = "ti-facebook"
+#[[params.social]]
+#URL = "#"
+#icon = "ti-instagram"
+#[[params.social]]
+#URL = "#"
+#icon = "ti-dribbble"
+#[[params.social]]
+#URL = "https://twitter.com/pixpression"
+#icon = "ti-twitter-alt"
