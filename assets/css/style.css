@@ -440,6 +440,11 @@ textarea.form-control {
   }
 }
 
+.navbar-brand img {
+  width: 100%;
+  max-width: 45px;
+}
+
 .navbar .nav-item .nav-link {
   font-family: bwnistaint-xbd;
   text-transform: uppercase;
