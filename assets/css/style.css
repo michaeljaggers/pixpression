@@ -707,6 +707,15 @@ textarea.form-control {
   margin-bottom: -250px
 }
 
+.g-recaptcha {
+    margin-bottom: 40px;
+}
+
+.g-recaptcha > div {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .shadow-down {
   position: relative
 }
